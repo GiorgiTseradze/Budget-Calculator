@@ -20,7 +20,7 @@ function App() {
   // alert
   const [alert, setAlert] = useState({show: false})
   //edit
-const [edit, setEdit] = useState(false);
+  const [edit, setEdit] = useState(false);
   //edit item
   const [ id, setId ] = useState(0);
 
